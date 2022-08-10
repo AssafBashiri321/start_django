@@ -3,3 +3,4 @@ polls
 *.wow
 *.singelton
 *.wingelton
+*.DS*S
